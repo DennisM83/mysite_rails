@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyText
+  muscle_anatomy: MyText
+  slicing_instructions: MyText
+  cooking_options: MyText
+  recipe: MyText
+
+two:
+  name: MyString
+  description: MyText
+  muscle_anatomy: MyText
+  slicing_instructions: MyText
+  cooking_options: MyText
+  recipe: MyText
