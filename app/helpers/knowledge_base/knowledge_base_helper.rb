@@ -1,0 +1,2 @@
+module KnowledgeBase::KnowledgeBaseHelper
+end
