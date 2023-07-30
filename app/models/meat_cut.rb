@@ -1,0 +1,2 @@
+class MeatCut < ApplicationRecord
+end
